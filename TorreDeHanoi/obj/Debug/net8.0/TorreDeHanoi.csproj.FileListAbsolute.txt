@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0\TorreDeHanoi.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0\TorreDeHanoi.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0\TorreDeHanoi.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0\TorreDeHanoi.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\refint\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\TorreDeHanoi.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0\ref\TorreDeHanoi.dll

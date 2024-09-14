@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0-windows\TorreDeHanoi.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0-windows\TorreDeHanoi.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0-windows\TorreDeHanoi.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0-windows\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\bin\Debug\net8.0-windows\TorreDeHanoi.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\refint\TorreDeHanoi.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\TorreDeHanoi.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\TorreDeHanoi\obj\Debug\net8.0-windows\ref\TorreDeHanoi.dll
